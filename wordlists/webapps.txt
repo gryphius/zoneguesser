@@ -1,0 +1,27 @@
+# web apps
+
+#generic
+portal
+shop
+webshop
+my
+bugs
+media
+static
+cdn
+img
+images
+cms
+
+#software products
+roundcube
+rc
+jira
+trac
+bugzilla
+wordpress
+typo
+typo3
+joomla
+rt
+mantis

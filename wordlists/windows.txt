@@ -1,0 +1,9 @@
+#microsoft / windows servers
+
+isa
+owa
+sbs
+exchange
+win
+windows
+dc

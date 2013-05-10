@@ -1,0 +1,5 @@
+#SRV records
+_sipfederationtls._tcp 	SRV
+_sip._tls	SRV
+_autodiscover._tcp	SRV
+_xmpp-client._tcp	SRV

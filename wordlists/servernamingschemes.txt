@@ -96,7 +96,7 @@ Bangkok
 Singapore
 NewYork
 KualaLumpur
-Hong Kong
+HongKong
 Dubai
 Istanbul
 Rome
